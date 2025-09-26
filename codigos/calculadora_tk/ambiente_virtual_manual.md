@@ -2,7 +2,7 @@ Este é um arquivo em formato MarkDown, caso esteja abrindo pelo VSCode, instale
 
 
 ## Manual de criação do ambiente virtual Python
-## (Windows e Linux)
+## (Windows, Linux e MacOS)
 
 **OBS**: Esse manual se destina à aqueles que desejam entender melhor porque usar ambientes virtuais em Python e qual sua importância na fase de desenvolvimento. Caso não tenha interesse em saber como funciona pule para a seção [[#Como criar um ambiente virtual Python?]]
 
@@ -56,9 +56,9 @@ Esse comando irá permitir a execução de scripts externos somente para seu usu
 
 ###
 
-#### Para sistemas Linux (bash, zsh)
+#### Para sistemas Linux e MacOS (bash, zsh)
 ```
-# Caso não esteja instalado (Substitua X pela versão instalada em sua máquina)
+# Caso não esteja instalado no Linux (Substitua X pela versão instalada em sua máquina)
 sudo apt install python3.X-venv
 
 python3 -m venv venv
