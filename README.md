@@ -55,7 +55,7 @@ O site geralmente detecta o seu sistema operacional e oferece o download da vers
 2.  **Importante:** Na primeira tela da instalação, marque a caixa que diz **`Add Python to PATH`**. Isso facilitará a execução de scripts Python a partir do terminal.
     
     <p align="center">
-      <img src="./add-to-path-python.png" alt="Adicionar Python ao PATH" width="600"/>
+      <img src="./imagens/readme/add-to-path-python.png" alt="Adicionar Python ao PATH" width="600"/>
     </p>
 
 3.  Clique em **"Install Now"** e siga as instruções até a conclusão da instalação.
@@ -88,7 +88,7 @@ sudo apt install python3
 O **VS Code** é um editor de código-fonte leve, porém poderoso, que oferece excelente suporte e várias extensões para o desenvolvimento em Python.
 
 <p align="center">
-  <img src="./vs-code.png" alt="Interface do VS Code" width="600"/>
+  <img src="./imagens/readme/vs-code.png" alt="Interface do VS Code" width="600"/>
 </p>
 
 #### **2.1. Download do VS Code**
@@ -102,7 +102,7 @@ Acesse a página oficial de downloads do Visual Studio Code: **[https://code.vis
 3.  Recomenda-se manter as opções padrão, especialmente a que adiciona o VS Code ao "PATH".
 
     <p align="center">
-      <img src="./add-to-path-code.png" alt="Adicionar VS Code ao PATH" width="600"/>
+      <img src="./imagens/readme/add-to-path-code.png" alt="Adicionar VS Code ao PATH" width="600"/>
     </p>
 
 4.  Clique em **"Instalar"** e aguarde a conclusão.
@@ -139,7 +139,7 @@ Com o **Python** e o **VS Code** instalados, o próximo passo é conectar os doi
 4.  Clique no botão **"Instalar"**. Esta extensão fornecerá recursos como autocompletar, depuração (debugging) e muito mais.
 
 <p align="center">
-  <img src="./qs-python-ext-install.gif" alt="Instalando a extensão Python no VS Code" width="600"/>
+  <img src="./imagens/readme/qs-python-ext-install.gif" alt="Instalando a extensão Python no VS Code" width="600"/>
 </p>
 
 ---
@@ -178,7 +178,7 @@ Existem duas maneiras simples de executar seu programa:
     1.  Com a extensão Python instalada, você verá um botão de "play" (▶️) no canto superior direito do VS Code.
     2.  Clique neste botão para executar o arquivo.
     <p align="center">
-      <img src="./run-code.png" alt="Botão de executar código" width="400"/>
+      <img src="./imagens/readme/run-code.png" alt="Botão de executar código" width="400"/>
     </p>
 
 Em ambos os casos, você deverá ver a mensagem **"Olá, Mundo!"** impressa no terminal.
